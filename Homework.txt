@@ -1,0 +1,7 @@
+Create me a Feature File and Step Definitions for this scenarios:
+Site: https://www.amazon.com/
+
+Write BDD steps that would :
+
+
+
